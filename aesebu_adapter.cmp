@@ -1,0 +1,45 @@
+Cmp-Mod V01 Created by CvPcb (2013-jul-07)-stable date = Sat 01 Apr 2017 17:09:14 EEST
+
+BeginCmp
+TimeStamp = /58DFACD8;
+Reference = K1;
+ValeurCmp = XLR3;
+IdModule  = XLR3MC;
+EndCmp
+
+BeginCmp
+TimeStamp = /58DFAFF7;
+Reference = K2;
+ValeurCmp = RCA;
+IdModule  = R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /58DFAC5D;
+Reference = R1;
+ValeurCmp = 56;
+IdModule  = R3-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /58DFACA9;
+Reference = R2;
+ValeurCmp = 130;
+IdModule  = R3-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /58DFAC8B;
+Reference = R3;
+ValeurCmp = 82;
+IdModule  = R3-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /58DFAC9A;
+Reference = R4;
+ValeurCmp = 120;
+IdModule  = R3-5;
+EndCmp
+
+EndListe
